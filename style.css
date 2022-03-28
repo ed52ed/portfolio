@@ -92,7 +92,7 @@ PROJECT
 }
 
 #project .card img {
-    width: 100px;
+    width: 100%;
 }
 
 #project .card-title {
